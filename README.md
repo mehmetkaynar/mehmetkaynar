@@ -12,7 +12,8 @@
  ![](https://komarev.com/ghpvc/?username=mehmetkaynar&color=orange&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
-<br></br>
+
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynarmehmet/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=orange)](mailto:mehmetkynrr34@gmail.com)
 
