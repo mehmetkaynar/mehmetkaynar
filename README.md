@@ -22,4 +22,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkaynar&" alt="mehmetk34" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkaynar&show_icons=true&locale=en&layout=compact" alt="my github stats" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkaynar&show_icons=true&locale=en&layout=compact" alt="my github stats" />&nbsp;</p>
